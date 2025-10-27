@@ -1,0 +1,6 @@
+- [x] Update app/layout.js to integrate GlobalLayout logic and make it a client component
+- [x] Delete components/GlobalLayout.js
+- [x] Recreate missing files: app/students/page.js, app/students/StudentsTable.js, app/students/[id]/page.js, app/students/[id]/loading.js
+- [x] Fix Title component in app/page.js by using Typography.Title directly and removing wrapper
+- [x] Add level prop to Typography.Title
+- [x] Run dev server to verify fix
